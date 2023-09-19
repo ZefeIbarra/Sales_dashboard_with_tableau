@@ -1,7 +1,5 @@
 # Sales dashboard with tableau
-In this Tableau project, we present a comparison of sales, profits, and the quantity of items sold between the years 2022 and 2021 for an American company.
-The graphs can be filtered by category, region, and shipping method.
-
+This project presents some of the health-related statistics from the Census conducted in Mexico in the year 2020
 
 ## Access the Visualization
 
